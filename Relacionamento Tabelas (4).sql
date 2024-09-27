@@ -1,0 +1,2 @@
+ALTER TABLE Empresa
+ADD contato VARCHAR(50);

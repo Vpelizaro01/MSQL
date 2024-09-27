@@ -1,0 +1,2 @@
+ALTER TABLE Empresa
+ALTER COLUMN endereco VARCHAR(80);
